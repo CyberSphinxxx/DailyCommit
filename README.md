@@ -22,7 +22,7 @@ This repo is my coding diary, where I commit projects, experiments, and tiny sni
 
 ---
 
-## 🏆 Progress Tracker
+## 🏆 Progress Tracker / Notable Things I did
 | Day | Date         | Focus / Project               | Notes                       |
 |-----|-----------   |-----------------------------  |-----------------------------|
 | 1   | 2025-08-13   | Daily Commit Repository Setup |Setup for this repo          |
