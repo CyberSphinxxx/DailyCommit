@@ -1,6 +1,6 @@
 # DailyCommit
 
-A personal challenge to code **every single day** — building on my completed **100 Days of Code** journey.  
+A personal challenge to code **every single day** — building on my completed <a href="https://github.com/CyberSphinxxx/100-Days-of-Code">100 Days of Code</a> journey.  
 This repo is my coding diary, where I commit projects, experiments, and tiny snippets that keep the habit alive.  
 
 ---
